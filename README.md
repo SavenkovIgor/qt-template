@@ -1,4 +1,4 @@
-# Cpp template project
+# Qt template project
 
 ## Build
 To build project just run script at tools/build.sh
